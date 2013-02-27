@@ -27,7 +27,7 @@ set extdifftool meld
 set perfile_attrs 0
 set geometry(main) 1207x757+57+196
 set geometry(state) normal
-set geometry(topwidth) 1207
+set geometry(topwidth) 1207 added aome line
 set geometry(topheight) 225
 set geometry(pwsash0) "440 1"
 set geometry(pwsash1) "660 1"
